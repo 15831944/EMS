@@ -1,0 +1,14 @@
+D:\快速访问\文档\GitHub\EMS\DeviceManage\MyDeviceManage\MyDeviceManage\obj\Debug\MyDeviceManage.csprojAssemblyReference.cache
+D:\快速访问\文档\GitHub\EMS\DeviceManage\MyDeviceManage\MyDeviceManage\obj\Debug\MainWindow.g.cs
+D:\快速访问\文档\GitHub\EMS\DeviceManage\MyDeviceManage\MyDeviceManage\obj\Debug\App.g.cs
+D:\快速访问\文档\GitHub\EMS\DeviceManage\MyDeviceManage\MyDeviceManage\obj\Debug\MyDeviceManage_MarkupCompile.cache
+D:\快速访问\文档\GitHub\EMS\DeviceManage\MyDeviceManage\MyDeviceManage\obj\Debug\MyDeviceManage_MarkupCompile.lref
+D:\快速访问\文档\GitHub\EMS\DeviceManage\MyDeviceManage\MyDeviceManage\bin\Debug\MyDeviceManage.exe.config
+D:\快速访问\文档\GitHub\EMS\DeviceManage\MyDeviceManage\MyDeviceManage\bin\Debug\MyDeviceManage.exe
+D:\快速访问\文档\GitHub\EMS\DeviceManage\MyDeviceManage\MyDeviceManage\bin\Debug\MyDeviceManage.pdb
+D:\快速访问\文档\GitHub\EMS\DeviceManage\MyDeviceManage\MyDeviceManage\obj\Debug\MainWindow.baml
+D:\快速访问\文档\GitHub\EMS\DeviceManage\MyDeviceManage\MyDeviceManage\obj\Debug\MyDeviceManage.g.resources
+D:\快速访问\文档\GitHub\EMS\DeviceManage\MyDeviceManage\MyDeviceManage\obj\Debug\MyDeviceManage.Properties.Resources.resources
+D:\快速访问\文档\GitHub\EMS\DeviceManage\MyDeviceManage\MyDeviceManage\obj\Debug\MyDeviceManage.csproj.GenerateResource.cache
+D:\快速访问\文档\GitHub\EMS\DeviceManage\MyDeviceManage\MyDeviceManage\obj\Debug\MyDeviceManage.exe
+D:\快速访问\文档\GitHub\EMS\DeviceManage\MyDeviceManage\MyDeviceManage\obj\Debug\MyDeviceManage.pdb
